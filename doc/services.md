@@ -1,7 +1,7 @@
 
 ## Welcome to our service page
 
-# Discover Ottawa
+# Discover Ottawa :tada: :100:
 
 ![Ottawa Banner](https://www.tripsavvy.com/thmb/bsQiNqnuGVM62odcfAXc3d53_oE=/5050x3346/filters:fill(auto,1)/parliament-hill-on-the-rideau-canal-182789593-58bc2dc33df78c353cc6d63d.jpg) 
 
