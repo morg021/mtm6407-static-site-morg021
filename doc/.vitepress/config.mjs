@@ -13,7 +13,6 @@ export default defineConfig({
       { text: 'Services', link: '/services' },
       { text: 'Info', link: '/info' },
       { text: 'Contact', link: '/contact' },
-      { text: 'Contact', link: '/contact' },
     ],
 
     sidebar: [
